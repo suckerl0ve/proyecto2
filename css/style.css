@@ -1,0 +1,71 @@
+.contenedor{
+	max-width: 800px;
+	margin: auto;
+}
+
+.menu{
+	background-color:yellow;
+}
+
+.menu ul li{
+	display:inline-block;
+	margin: 0 5px;
+}
+
+.menu ul{
+	float:right;
+}
+
+header{
+	background: cyan;
+	text-align: center;
+	padding: 100px 0;
+}
+
+.info1 article{
+	display:inline-block;
+	width:49%;
+}
+
+.social{
+	text-align:center;
+	padding:0;
+}
+.social li{
+	display:inline-block;
+}
+
+.social li span{
+	display:inline-block;
+	margin:5px;
+	height:40px;
+	width:40px;
+	border-radius:50%;
+	text-align: center;
+	box-sizing: border-box;
+	padding-top:5px;
+	font-size:25px;
+	color: white;
+}
+
+.facebook{
+	background:#3b5998;
+}
+
+.twitter{
+	background:#55acee;
+}
+
+.linkedin{
+	background:#007bb5;
+}
+
+.pinterest{
+	background:#cb2027;
+}
+
+.googleplus{
+	background:#dd4b39;
+}
+
+
